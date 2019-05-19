@@ -65,7 +65,7 @@ header {
   }
 }
 
-@media only screen and (max-device-width: 414px) {
+@media only screen and (max-device-width: 815px) {
   #navbar {
     position: relative;
     width: 100%;
